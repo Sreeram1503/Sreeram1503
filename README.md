@@ -1,6 +1,6 @@
 ### Hi there, I'm Sreeram 👋
 
-I'm an MSc Financial Engineering student at Imperial College London, passionate about the intersection of macroeconomics, technology, quantitative finance, and global markets. I build tools and develop strategies to solve complex problems in asset management and investment research.
+I'm an MSc Financial Engineering student at Imperial College London, passionate about the intersection of macroeconomics, quantitative finance, and global markets. I build tools and develop strategies to solve complex problems in asset management and investment research.
 
 - 🔭 I’m currently leading development at **[QFin Technologies](https://github.com/Sreeram1503/qfin-analyst-copilot-showcase)**, an AI-driven platform for institutional research.
 - 🌱 I’m skilled in quantitative analysis, machine learning, and full-stack development.
